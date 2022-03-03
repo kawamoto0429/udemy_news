@@ -3,7 +3,6 @@ import { StyleSheet, View, Text, FlatList, SafeAreaView, TouchableOpacity } from
 import {WebView} from "react-native-webview";
 import {useDispatch} from "react-redux";
 import {addClip} from "../store/actions/user";
-import {deleteClip} from "../store/actions/user";
 
 const styles = StyleSheet.create({
   container: {
