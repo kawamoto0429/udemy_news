@@ -19,9 +19,6 @@
     "ios": {
       "supportsTablet": true
     },
-    "extra" : {
-      "newsApiKey": "a65b5cca4cc64d048b7a492bc80122d8"
-    },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
